@@ -1,6 +1,6 @@
 package com.geanlucas.Usuario.infrastructure.repository;
 
-import com.geanlucas.aprendendospring.infrastructure.entity.Telefone;
+import com.geanlucas.Usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
